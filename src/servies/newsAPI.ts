@@ -1,6 +1,6 @@
 import type { NewsArticle } from "../interfaces";
 
-const API_KEY = "cfbda0c009e442a3a1c9eeb7d217f39f"; // مفتاحك الجديد
+const API_KEY = "ae4fdbfe6e994c3f95297019d06be170"; // مفتاحك الجديد
 const BASE_URL = "https://newsapi.org/v2";
 
 export async function getTopHeadlines(
